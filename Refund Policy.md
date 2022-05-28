@@ -24,7 +24,7 @@ Shipments that go unclaimed are returned to our facility and you will be liable 
 Sale items – only regularly priced items may be refunded
 
 ## 4. NO ACCOUNT <span id="section-4"></span>
-If you haven’t registered an account on https://anonoei.com and added a billing method, you hereby agree that any returned orders due to the wrong shipping address or a failure to claim the shipment won’t be available for reshipping and will be donated to charity.
+If you haven’t registered an account on https://daav.us and added a billing method, you hereby agree that any returned orders due to the wrong shipping address or a failure to claim the shipment won’t be available for reshipping and will be donated to charity.
 
 ## 5. PROVIDERS <span id="section-5"></span>
 We use two different product suppliers in order to provide our products: Printful, and Printify. These providers may have different Return Policies, and thus have different requirements for returns. Please contact us using the details above if you believe your return meets our requirements.
